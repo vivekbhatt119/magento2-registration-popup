@@ -1,10 +1,10 @@
-# Mage2 Module Vivek RegistrationPopup
+# Mage2 Module Registration Popup
 
     ``vivek/module-registrationpopup``
 
- - [Main Functionalities](#markdown-header-main-functionalities)
- - [Installation](#markdown-header-installation)
- - [How To Use](#markdown-header-how-to-use)
+ - [Main Functionalities](#main-functionalities)
+ - [Installation](#installation)
+ - [How To Use](#how-to-use)
 
 
 ## Main Functionalities
