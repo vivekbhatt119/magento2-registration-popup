@@ -1,0 +1,22 @@
+{
+    "name": "vivek/module-registrationpopup",
+    "description": "Register customer through popup.",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Vivek Bhatt",
+            "email": "vivekbhatt119@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Vivek\\RegistrationPopup\\": ""
+        }
+    }
+}
